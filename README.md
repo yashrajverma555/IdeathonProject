@@ -14,4 +14,4 @@ AI-powered app that turns a dream career into a personalized, interactive roadma
 
 
 
-**Live:** `<https://yashrajverma555.github.io/IdeathonProject/>` 
+**Live:** <https://yashrajverma555.github.io/IdeathonProject/>
